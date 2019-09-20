@@ -1,0 +1,1 @@
+Dossier contenant les fichiers data.in et les score.in de chaque stratégie.

@@ -1,0 +1,23 @@
+# Ignored folder #
+###################
+/target
+/.idea
+*.iml
+
+# visualiser #
+/visualiser/target
+/visualiser/.idea
+/visualiser/*.iml
+/visualiser/src/main/java/fr/uca/unice/polytech/si3/ps5/year17/teama/visualiser/results/*.r
+
+# engine #
+/engine/target
+/engine/.idea
+/engine/*.iml
+/engine/src/main/java/fr/uca/unice/polytech/si3/ps5/year17/teama/engine/output/*.txt
+
+# benchmark #
+/benchmark/target
+/benchmark/.idea
+/benchmark/*.iml
+/benchmark/result*
